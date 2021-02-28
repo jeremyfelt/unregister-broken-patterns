@@ -1,13 +1,13 @@
 # Unregister Broken Patterns
 
-Stable tag: 1.0.0
-Requires at least: 5.6
-Tested up to: 5.6
-Requires PHP: 5.6
-License: GPL v2 or later
-Tags: blocks, block types, block patterns, block editor
-Contributors: jeremyfelt
-
+Stable tag: 1.0.0  
+Requires at least: 5.6  
+Tested up to: 5.6  
+Requires PHP: 5.6  
+License: GPL v2 or later  
+Tags: blocks, block types, block patterns, block editor  
+Contributors: jeremyfelt  
+  
 ## Description
 
 Unregister block patterns that contain block types not available to the editor.
