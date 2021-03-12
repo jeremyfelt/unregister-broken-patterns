@@ -1,4 +1,6 @@
 .distignore
 .gitignore
 .github
+.git
+.wordpress-org
 README.md
