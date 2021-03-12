@@ -1,2 +1,4 @@
 .distignore
 .gitignore
+.github
+README.md
